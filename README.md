@@ -1,5 +1,13 @@
 
-## Hi, This is Swa Omm Tripathy <br><br>- 💼 Software Engineer with experience building enterprise web applications<br>- 🌐 Full Stack Developer (ASP.NET Core, Angular, React, Node.js)<br>- ⚡ Passionate about backend architecture and clean code<br>- 🤖 Interested in AI-powered applications<br>- 🧪 Exploring Software Testing & Automation<br>- 📚 Teaching Basic Computer Science to beginners<br>- 🌱 Currently learning Cloud, Docker and System Design
+<h1 align="center">Hi 👋, I'm Swa Omm Tripathy</h1>
+
+<h3 align="center">
+Software Engineer • Full Stack Developer • .NET Enthusiast
+</h3>
+
+<p align="center">
+Building scalable web applications with ASP.NET Core, Angular, React, Node.js & SQL Server.
+</p>
 
 
 ## 🌐 Socials:
