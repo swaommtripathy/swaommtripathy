@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 🚀 About Me<br><br>- 💼 Software Engineer with experience building enterprise web applications<br>- 🌐 Full Stack Developer (ASP.NET Core, Angular, React, Node.js)<br>- ⚡ Passionate about backend architecture and clean code<br>- 🤖 Interested in AI-powered applications<br>- 🧪 Exploring Software Testing & Automation<br>- 📚 Teaching Basic Computer Science to beginners<br>- 🌱 Currently learning Cloud, Docker and System Design
 
 
