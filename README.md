@@ -112,17 +112,48 @@ Building scalable web applications with ASP.NET Core, Angular, React, Node.js & 
 ![System Design](https://img.shields.io/badge/System_Design-0066CC?style=for-the-badge)
 ![Automation Testing](https://img.shields.io/badge/Automation_Testing-2E8B57?style=for-the-badge)
 
+## 📊 GitHub Analytics
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=swaommtripathy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=swaommtripathy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=swaommtripathy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=swaommtripathy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaommtripathy&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=swaommtripathy&theme=github-dark-blue&hide_border=true"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=swaommtripathy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/swaommtripathy) 
+## 🏆 GitHub Trophies
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=swaommtripathy&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=swaommtripathy&theme=github-compact&hide_border=true)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=swaommtripathy&style=for-the-badge&color=0e75b6)
+
+</div>
