@@ -157,3 +157,34 @@ Building scalable web applications with ASP.NET Core, Angular, React, Node.js & 
 ![](https://komarev.com/ghpvc/?username=swaommtripathy&style=for-the-badge&color=0e75b6)
 
 </div>
+
+
+
+
+
+
+
+
+## ⚡ Development Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swaommtripathy&theme=github_dark"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swaommtripathy&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swaommtripathy&theme=github_dark"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swaommtripathy&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swaommtripathy&theme=github_dark&utcOffset=5.5"/>
+
+</div>
